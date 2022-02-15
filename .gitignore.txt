@@ -1,0 +1,2 @@
+.pynb_checckpoint/
+virtual/
